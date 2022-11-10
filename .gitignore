@@ -1,0 +1,6 @@
+.vagrant
+roles/external
+ansible-rails
+rails
+inventory
+classrequests
